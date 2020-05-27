@@ -11,7 +11,7 @@ spring:
     time-zone: GMT+8
     date-format: yyyy-MM-dd HH:mm:ss
   profiles:
-    active: dev
+    active: res
   http:
     multipart:
       max-file-size: 30Mb
